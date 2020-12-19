@@ -1,2 +1,2 @@
 # auto-qrcode
-This program can put qrcode into picture
+这个程序可以自动生成二维码水印，并且嵌入图片中。
