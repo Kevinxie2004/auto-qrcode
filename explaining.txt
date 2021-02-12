@@ -1,0 +1,10 @@
+在当今社会，隐私成为人们十分关注并且热议无穷的一个话题。在互联网技术如此发达的时代，与隐私相关的信息泄露成为一种十分容易而又防不胜防的现象。
+其中有一种是与隐私相关的图片流失，如证件照的泄露。所以很多人为了保护自己的隐私，会在证件照上面加上一个水印。
+虽然这个方法在一定程度上可以防止自己隐私的泄露，但是这个方法有比较大的漏洞。普通水印很容易被观察到并且除去，这也就导致了这个方案不可行。
+因此，我的这个项目便可以很好的解决这个问题。
+
+
+In today's society, privacy has become a topic of great concern and endless discussion. In an era where Internet technology is so advanced, the leakage of privacy-related information has become a very easy and unpredictable phenomenon.
+One of them is the loss of privacy-related pictures, such as the disclosure of ID photos. Therefore, in order to protect their privacy, many people add a watermark to their ID photos.
+Although this method can prevent the disclosure of one's own privacy to a certain extent, this method has relatively large loopholes. Ordinary watermarks are easy to observe and remove, which makes this scheme infeasible.
+Therefore, my project can solve this problem well. 
